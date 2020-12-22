@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh_cn">
+<head>
+    <meta charset="UTF-8">
+    <title>menu</title>
+    <link rel="import" href="index.html" id="workspace">
+    <script src="/static/js/jquery.min.js" type="text/javascript"></script>
+    <style>
+        *{
+            margin: 0;
+        }
+        ul,li{
+            list-style-type: none;
+        }
+        .menue_ul{
+            padding: 15px;
+        }
+        ul li{
+            display: block;
+            background-repeat: no-repeat;
+            margin-top: 10px;
+        }
+        .helight_img{
+
+        }
+        .helight_img:hover{
+            cursor:pointer;
+            /*png图像真实的阴影*/
+            filter: drop-shadow(0 0 2px #ffffff) drop-shadow(0 0 20px #0f8f8f) drop-shadow(0 0 5px #05edf5);
+        }
+
+    </style>
+</head>
+<body style="background-color: #0d2f44;">
+<div style="width: 100%;height: 100%;">
+    <ul class="menue_ul">
+        <li>
+            <img src="/static/css/images/status2.png" class="helight_img" id="img_status" alt="" style="width: 64px;">
+        </li>
+        <li>
+            <img src="/static/css/images/singleLine2.png" class="helight_img" id="img_singleLine" alt="" style="width: 64px;">
+        </li>
+        <li>
+            <img src="/static/css/images/compare2.png" class="helight_img" id="img_compare" alt="" style="width: 64px;">
+        </li>
+        <li>
+            <img src="/static/css/images/report2.png" class="helight_img" id="img_report" alt="" style="width: 64px;">
+        </li>
+        <li>
+            <img src="/static/css/images/email2.png" class="helight_img" id="img_email" alt="" style="width: 64px;">
+        </li>
+    </ul>
+</div>
+</body>
+<script type="text/javascript">
+    $(function (){
+        var page = $("#farm",window.parent.document);
+        $("#img_status").click(function () {
+            page.find("#workspace").attr("src","status_page");
+        });
+        $("#img_singleLine").click(function () {
+            page.find("#workspace").attr("src","singleLine_page");
+        });
+        $("#img_compare").click(function () {
+            page.find("#workspace").attr("src","compare_page");
+        });
+        $("#img_report").click(function () {
+            page.find("#workspace").attr("src","report_page");
+        });
+        $("#img_email").click(function () {
+            page.find("#workspace").attr("src","email_page");
+        });
+
+
+    })
+</script>
+</html>

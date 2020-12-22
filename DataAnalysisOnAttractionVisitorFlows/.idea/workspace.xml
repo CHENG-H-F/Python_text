@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13711cae-819f-4f8d-a92e-76f3ec5fcb68" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../0184288程华飞mvcBasic/mvcBasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Python双语.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/compare2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/email2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/report2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/singleLine2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/status2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/images/welcome3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/CSRF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/echarts_img.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/reports/bootstrap-4.5.3-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/compare_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/email_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/report_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/singleLine_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/status_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/top.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_app/DataRequest/getData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_app/entity/BaseEntity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_app/entity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_app/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_app/sql/sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python网络爬虫/1001/NetworkCrawler/.idea/NetworkCrawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../软件工程实训/farm/WebRoot/.idea/WebRoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../data_visualization/.idea/data_visualization.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JupyterTrust" id="40015e75-3e12-4194-bfeb-9429bd6f8da1" />
+  <component name="ProjectId" id="1jjqGSqEnUte0IBsDGctjGxyasQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css/images" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static/reports" />
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$/web_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.project">
+    <configuration name="Dao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/web/dao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/web/dao/Dao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="business" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/web/service" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/web/service/business.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_app/DataRequest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_app/DataRequest/getData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_app/sql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_app/sql/sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/Python3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="9000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:9000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.project" />
+      <item itemvalue="Python.business" />
+      <item itemvalue="Python.Dao" />
+      <item itemvalue="Python.data" />
+      <item itemvalue="Python.getData" />
+      <item itemvalue="Python.sql" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.getData" />
+        <item itemvalue="Python.sql" />
+        <item itemvalue="Python.Dao" />
+        <item itemvalue="Python.business" />
+        <item itemvalue="Python.data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13711cae-819f-4f8d-a92e-76f3ec5fcb68" name="默认更改列表" comment="" />
+      <created>1604327752895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604327752895</updated>
+      <workItem from="1604327754312" duration="2450000" />
+      <workItem from="1604411094183" duration="154000" />
+      <workItem from="1604411423614" duration="9818000" />
+      <workItem from="1604473157564" duration="10743000" />
+      <workItem from="1604711111301" duration="29388000" />
+      <workItem from="1604844548631" duration="149000" />
+      <workItem from="1605312614158" duration="29789000" />
+      <workItem from="1606004580609" duration="2998000" />
+      <workItem from="1606017542703" duration="3917000" />
+      <workItem from="1606022523760" duration="464000" />
+      <workItem from="1607348441587" duration="6126000" />
+      <workItem from="1607392064870" duration="2934000" />
+      <workItem from="1607397740303" duration="1378000" />
+      <workItem from="1607472355211" duration="10789000" />
+      <workItem from="1607494619634" duration="3274000" />
+      <workItem from="1607497973156" duration="16209000" />
+      <workItem from="1607529435079" duration="1459000" />
+      <workItem from="1607586296392" duration="6382000" />
+      <workItem from="1607603610765" duration="10972000" />
+      <workItem from="1607666491747" duration="52593000" />
+      <workItem from="1607939876944" duration="26897000" />
+      <workItem from="1608000008969" duration="25920000" />
+      <workItem from="1608076874570" duration="17043000" />
+      <workItem from="1608119482256" duration="76000" />
+      <workItem from="1608119652629" duration="509000" />
+      <workItem from="1608122200146" duration="86000" />
+      <workItem from="1608122436595" duration="52000" />
+      <workItem from="1608122491714" duration="4000" />
+      <workItem from="1608122498924" duration="3000" />
+      <workItem from="1608122518453" duration="5611000" />
+      <workItem from="1608177728773" duration="42086000" />
+      <workItem from="1608428057366" duration="19459000" />
+      <workItem from="1608493102075" duration="1149000" />
+      <workItem from="1608530716932" duration="5465000" />
+      <workItem from="1608539979566" duration="2493000" />
+      <workItem from="1608544897569" duration="3308000" />
+      <workItem from="1608611919499" duration="184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="190" width="1092" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607513597411">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="174" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1604481984723" />
+    <state x="466" y="190" width="1092" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607513597411" />
+    <state x="796" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607494917372">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="796" y="321" key="#com.intellij.fileTypes.FileTypeChooser/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605319841983" />
+    <state x="796" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1607494917372" />
+    <state x="668" y="124" key="#project" timestamp="1604481069537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="124" key="#project/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1604481069537" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604844696281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1604844696281" />
+    <state width="1878" height="239" key="GridCell.Tab.0.bottom" timestamp="1608612103919">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1556" height="264" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@-1600.0.1600.860" timestamp="1606022987317" />
+    <state width="1876" height="317" key="GridCell.Tab.0.bottom/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1606007602192" />
+    <state width="1878" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608612103919" />
+    <state width="1467" height="239" key="GridCell.Tab.0.bottom/0.25.1920.983@0.25.1920.983" timestamp="1608544774869" />
+    <state width="1878" height="239" key="GridCell.Tab.0.center" timestamp="1608612103918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1556" height="264" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@-1600.0.1600.860" timestamp="1606022987317" />
+    <state width="1876" height="317" key="GridCell.Tab.0.center/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1606007602192" />
+    <state width="1878" height="239" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608612103918" />
+    <state width="1467" height="239" key="GridCell.Tab.0.center/0.25.1920.983@0.25.1920.983" timestamp="1608544774868" />
+    <state width="1878" height="239" key="GridCell.Tab.0.left" timestamp="1608612103918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1556" height="264" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@-1600.0.1600.860" timestamp="1606022987316" />
+    <state width="1876" height="317" key="GridCell.Tab.0.left/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1606007602192" />
+    <state width="1878" height="239" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608612103918" />
+    <state width="1467" height="239" key="GridCell.Tab.0.left/0.25.1920.983@0.25.1920.983" timestamp="1608544774867" />
+    <state width="1878" height="239" key="GridCell.Tab.0.right" timestamp="1608612103919">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1556" height="264" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@-1600.0.1600.860" timestamp="1606022987317" />
+    <state width="1876" height="317" key="GridCell.Tab.0.right/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1606007602192" />
+    <state width="1878" height="239" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608612103919" />
+    <state width="1467" height="239" key="GridCell.Tab.0.right/0.25.1920.983@0.25.1920.983" timestamp="1608544774868" />
+    <state width="237" height="457" key="HiddenNamespacesPopup" timestamp="1607513603013">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="237" height="457" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1607513603013" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1605314660944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605314660944" />
+    <state x="773" y="414" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1607514834744">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="414" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1607514834744" />
+    <state x="751" y="414" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1607514433737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="751" y="414" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607514433737" />
+    <state x="644" y="251" width="632" height="538" key="find.popup" timestamp="1605351763177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="251" width="632" height="538" key="find.popup/-1600.0.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1605351763177" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/ProgramData/Anaconda3/envs/Django/Lib/site-packages/pyecharts/charts/chart.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project$business.coverage" NAME="business Coverage Results" MODIFIED="1604725017258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/web/service" />
+    <SUITE FILE_PATH="coverage/project$data.coverage" NAME="data Coverage Results" MODIFIED="1604417942575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/web" />
+    <SUITE FILE_PATH="coverage/project$Dao.coverage" NAME="Dao Coverage Results" MODIFIED="1604731866625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/web/dao" />
+    <SUITE FILE_PATH="coverage/projectEmpty$sql.coverage" NAME="sql Coverage Results" MODIFIED="1607519653347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_app/sql" />
+    <SUITE FILE_PATH="coverage/projectEmpty$getData.coverage" NAME="getData Coverage Results" MODIFIED="1607520234294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_app/DataRequest" />
+  </component>
+</project>
